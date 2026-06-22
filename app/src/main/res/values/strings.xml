@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quote of the Day</string>
+    <string name="loading_quote">Loading quote…</string>
+    <string name="new_quote">New Quote</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="view_favorites">View Favorites</string>
+    <string name="today">Today</string>
+    <string name="share_quote_via">Share Quote via</string>
+    <string name="quote_saved">Quote saved to favorites!</string>
+    <string name="quote_already_saved">Quote already in favorites!</string>
+    <string name="no_favorites">No favorite quotes yet!</string>
+    <string name="quote_removed">Quote removed from favorites</string>
+    <string name="favorites_title">Favorite Quotes</string>
+    <string name="remove">Remove</string>
+    <string name="author">- Author</string>
+    <string name="author1">- Author</string>
+    <string name="favorites1">favorites\n</string>
+    <string name="quote_text_here">quote_text_here</string>
+    <string name="toast_quote_exists">toast_quote_exists\n</string>
+    <string name="author_format">author_format</string>
+    <string name="quote_format">quote_format\n</string>
+    <string name="share_format">string_format</string>
+    <string name="share_chooser_title">share_chooser_title</string>
+    <string name="today_format">today_format\n</string>
+    <string name="toast_quote_saved">toast_quote_saved</string>
+    <string name="favorite_quotes">favorite_quotes</string>
+</resources>
